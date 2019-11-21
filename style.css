@@ -73,4 +73,6 @@ input[type="checkbox"]{
     font-size: 25px;
     font-weight: 200;
 }
-
+.main ul li:active{
+    background-color: #ff000f;
+}
