@@ -2,9 +2,6 @@
 .body{
     background-color: #3b3f45;
     font-family:  \'Trebuchet MS\', Trebuchet, Arial, sans-serif;
-    border: 25px solid #ffffff;
-    margin:0;
-    border-top: 20px solid #ffffff;
 }
 .header{
     background-color: #4a4f56;
@@ -13,6 +10,7 @@
     padding: 15px 0;
 }
  h1+h3{
+     
     font-size: 25px;
     font-weight: 200;
 }
