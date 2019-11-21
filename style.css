@@ -2,6 +2,9 @@
 .body{
     background-color: #3b3f45;
     font-family:  \'Trebuchet MS\', Trebuchet, Arial, sans-serif;
+    border: 25px solid #ffffff;
+    margin:0;
+    border-top: 35px solid #ffffff;
 }
 .header{
     background-color: #4a4f56;
